@@ -25,7 +25,7 @@ It focuses on:
 
 ## 🏠 Main Dashboard
 
-![Main Dashboard](Main_dashboard.png)
+![Main Dashboard](report_pages_images/Main_dashboard.png)
 
 🔍 **Overview:**
 - Complete business performance snapshot  
