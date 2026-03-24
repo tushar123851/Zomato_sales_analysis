@@ -1,1 +1,1 @@
-## This files contains my Dashboard or report pages.
+## This files contains my dashboard or report pages.
