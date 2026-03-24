@@ -40,7 +40,7 @@ It focuses on:
 
 ## 🌍 Area Analysis Dashboard
 
-![Area Analysis](Area_analysis.png)
+![Area Analysis](report_pages_images/Area_analysis.png)
 
 🔍 **Overview:**
 - Focuses on geographic and city-level performance  
@@ -53,7 +53,7 @@ It focuses on:
 
 ## 👥 User Analysis Dashboard
 
-![User Analysis](user_analysis.png)
+![User Analysis](report_pages_images/user_analysis.png)
 
 🔍 **Overview:**
 - Analyzes user demographics and behavior  
