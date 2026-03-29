@@ -45,26 +45,58 @@ The dashboard provides **actionable insights** for business decision-making usin
 ### 🔹 Main Dashboard
 
 <p align="center">
-  <img src="images/dashboard1.png" width="85%">
+  <img src="report_pages_images/Main_dashboard.png" width="85%">
 </p>
 
 ---
 
+## 🔍 **Overview:**
+ - Complete business performance snapshot  
+ - KPI cards, category insights, and trends  
+
+## 📊 **Highlights:**
+- 💰 Sales: 989M  
+- 🧾 Orders: 150K  
+- ⭐ Ratings: 148K  
+
+---
+
+
 ### 🔹 Area Analysis
 
 <p align="center">
-  <img src="images/dashboard2.png" width="85%">
+  <img src="report_pages_images/Area_analysis.png" width="85%">
 </p>
+
+---
+
+## 🔍 **Overview:**
+- Focuses on geographic and city-level performance  
+
+## 📊 **Highlights:**
+- 🏆 Top City: Electronic City (Bangalore)  
+- 📍 Strong metro performance  
 
 ---
 
 ### 🔹 User Analysis
 
 <p align="center">
-  <img src="images/dashboard3.png" width="85%">
+  <img src="report_pages_images/user_analysis.png" width="85%">
 </p>
 
 ---
+
+## 🔍 **Overview:**
+- Analyzes user demographics and behavior  
+
+## 📊 **Highlights:**
+- 👨 Male: 57%  
+- 👩 Female: 43%  
+- 🎯 Age Group: 22–26 dominant  
+
+---
+
 
 ## 🎬 Animation (Optional - Recommended 🔥)
 
