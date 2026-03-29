@@ -102,15 +102,6 @@ The dashboard provides **actionable insights** for business decision-making usin
 ---
 
 
-## 🎬 Animation (Optional - Recommended 🔥)
-
-If you want animation, convert images into GIF and add below:
-
-<p align="center">
-  <img src="images/dashboard.gif" width="85%">
-</p>
-
----
 
 ## 📊 Key Insights
 
