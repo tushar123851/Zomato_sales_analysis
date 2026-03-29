@@ -1,12 +1,16 @@
-# 🍽️ Zomato Data Analytics Dashboard
+# 🍽️ Zomato Data Analytics Dashboard  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tool-Power%20BI-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Domain-Food%20Analytics-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Project-Data%20Analytics-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
 </p>
 
----
+
+<p align="center">
+  <img src="report_pages_images/dashboard.gif" width="85%">
+</p>
 
 ## 📌 Project Overview
 
@@ -175,37 +179,6 @@ If you want animation, convert images into GIF and add below:
 
 ---
 
-## 📂 Project Structure
-
-```
-Zomato-Dashboard/
-│
-├── data/
-├── images/
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│   ├── dashboard3.png
-│   ├── dashboard.gif   (optional)
-│
-├── dashboard.pbix
-├── README.md
-```
-
----
-
-## 🚀 How to Use
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/zomato-dashboard.git
-   ```
-
-2. Open the `.pbix` file in **Power BI Desktop**
-
-3. Explore the dashboard interactively
-
----
-
 ## 🌟 Future Improvements
 
 * 🔄 Real-time data integration
@@ -222,8 +195,4 @@ Zomato-Dashboard/
 
 ---
 
-## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
-
----
