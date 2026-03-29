@@ -1,162 +1,197 @@
-# 🍽️ Zomato Data Analytics Dashboard  
+# 🍽️ Zomato Data Analytics Dashboard
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-Data%20Analytics-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tool-Power%20BI-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Domain-Food%20Analytics-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 </p>
 
 ---
 
-# 📌 Project Overview
+## 📌 Project Overview
 
-🚀 This project transforms raw Zomato-style data into **interactive business insights** using a modern and visually appealing dashboard design.
+This project presents a **Zomato Data Analytics Dashboard** built to analyze food delivery data across multiple dimensions such as:
 
-It focuses on:
-- 📊 Sales Performance  
-- 👥 User Behavior  
-- 🌍 Area-wise Analysis  
-- 🍲 Food Category Trends  
+* 📊 Sales Performance
+* 🌍 Area Analysis
+* 👤 User Insights
+* 🍴 Food Category Trends
 
----
-
-# 📸 Dashboard Screenshots
-
-## 🏠 Main Dashboard
-
-![Main Dashboard](report_pages_images/Main_dashboard.png)
-
-🔍 **Overview:**
-- Complete business performance snapshot  
-- KPI cards, category insights, and trends  
-
-📊 **Highlights:**
-- 💰 Sales: 989M  
-- 🧾 Orders: 150K  
-- ⭐ Ratings: 148K  
+The dashboard provides **actionable insights** for business decision-making using **interactive visualizations** in Power BI.
 
 ---
 
-## 🌍 Area Analysis Dashboard
+## 🎯 Objectives
 
-![Area Analysis](report_pages_images/Area_analysis.png)
-
-🔍 **Overview:**
-- Focuses on geographic and city-level performance  
-
-📊 **Highlights:**
-- 🏆 Top City: Electronic City (Bangalore)  
-- 📍 Strong metro performance  
+* Analyze **sales trends over time**
+* Identify **top-performing cities & locations**
+* Understand **customer behavior**
+* Compare **food category performance (Veg / Non-Veg / Others)**
+* Evaluate **user demographics**
 
 ---
 
-## 👥 User Analysis Dashboard
+## 🛠️ Tools & Technologies
 
-![User Analysis](report_pages_images/user_analysis.png)
-
-🔍 **Overview:**
-- Analyzes user demographics and behavior  
-
-📊 **Highlights:**
-- 👨 Male: 57%  
-- 👩 Female: 43%  
-- 🎯 Age Group: 22–26 dominant  
+* 📊 Power BI
+* 📁 Data Cleaning & Transformation
+* 📈 Data Visualization
+* 🧠 Business Intelligence
 
 ---
 
-# 🎯 Objectives
+## 📷 Dashboard Preview
 
-✔ Analyze sales trends  
-✔ Identify top-performing regions  
-✔ Understand customer behavior  
-✔ Compare food categories  
-✔ Generate business insights  
+### 🔹 Main Dashboard
 
----
-
-# 📊 Key Insights
-
-🔥 Veg category leads sales  
-📈 Peak growth in 2018  
-👥 Young users dominate platform usage  
-🌍 Metro cities generate highest revenue  
-⚖️ Gender impacts spending patterns  
+<p align="center">
+  <img src="images/dashboard1.png" width="85%">
+</p>
 
 ---
 
-# 🎨 Design & UI/UX Highlights
+### 🔹 Area Analysis
 
-### ✨ Visual Design
-- Soft peach + white color theme  
-- Clean and minimal UI  
-- Consistent typography  
-
-### 🧩 Layout
-- Multi-dashboard structure  
-- KPI card-based design  
-- Balanced visual spacing  
-- Interactive elements  
-
-### 📊 Charts Used
-- Bar charts (City analysis)  
-- Line chart (Year trends)  
-- Pie/Donut charts (Distribution)  
-- Histogram (Age analysis)  
-- Tables (Detailed data)  
+<p align="center">
+  <img src="images/dashboard2.png" width="85%">
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+### 🔹 User Analysis
 
-| Tool | Purpose |
-|------|--------|
-| Python 🐍 | Data Processing |
-| Pandas 📊 | Data Analysis |
-| Power BI 📈 | Dashboard Visualization |
-| Matplotlib / Seaborn | Charts |
+<p align="center">
+  <img src="images/dashboard3.png" width="85%">
+</p>
 
 ---
 
-# 📂 Dataset
+## 🎬 Animation (Optional - Recommended 🔥)
 
-📥 **Raw Data:**  
-👉 https://drive.google.com/drive/folders/16oGmT-Nn9pWlt-QeqbSnRBeDViPbQOKo?usp=sharing  
+If you want animation, convert images into GIF and add below:
 
-📊 **PBIX Files:**  
-👉 https://drive.google.com/drive/folders/1eXkC6wERy9Sf8QkFyH7FvIlbv9DBlXx3?usp=sharing  
-
----
-
-# 📈 Business Insights
-
-- 📌 Veg category performs best  
-- 📌 Sales peaked in 2018  
-- 📌 Young users dominate usage  
-- 📌 Metro cities drive revenue  
-- 📌 Gender influences spending  
+<p align="center">
+  <img src="images/dashboard.gif" width="85%">
+</p>
 
 ---
 
-# 🚀 Future Enhancements
+## 📊 Key Insights
 
-- 🤖 Machine Learning integration  
-- 📡 Real-time data updates  
-- 🎯 Personalized recommendations  
-- 📊 Advanced filtering  
+### 📌 Overall Metrics
 
----
-
-# 🙌 Author
-
-**Tushar Vala**  
-📧 tusharvala707@gmail.com  
-💼 Data Analyst | Python Developer  
+* 💰 Total Sales: **989M**
+* 📦 Total Orders: **150K**
+* ⭐ Ratings: **148K**
+* 📊 Quantity Sold: **2M**
 
 ---
 
-# ⭐ Conclusion
+### 📌 Top Performing Cities
 
-This dashboard converts raw data into **actionable insights** using strong visualization and design principles.
+* 🥇 Tirupati
+* 🥈 Bangalore
+* 🥉 Pune
 
-💡 *Perfect for portfolio, resume, and interviews.*
+👉 These cities contribute the highest revenue.
+
+---
+
+### 📌 Yearly Sales Trend
+
+* 📈 Peak in **2018 (0.41bn)**
+* 📉 Decline after 2019
+
+---
+
+### 📌 Category Performance
+
+| Category | Sales | Ratings |
+| -------- | ----- | ------- |
+| Non-Veg  | 106M  | 11K     |
+| Veg      | 122M  | 12K     |
+| Others   | 24M   | 927     |
+
+👉 **Veg category performs best overall**
+
+---
+
+## 👤 User Insights
+
+* 👥 Total Users: **100K**
+* 👩 Female Users: **57.22%**
+* 👨 Male Users: **42.78%**
+
+👉 Female users dominate the platform.
+
+---
+
+## 📈 Age Distribution
+
+* Majority users fall between **20–25 years**
+* Younger audience is highly active
+
+---
+
+## 🧠 Business Recommendations
+
+* Focus marketing on **top-performing cities**
+* Improve performance in **low-sales areas**
+* Target **young users (20–25 age group)**
+* Expand **Veg category offerings**
+* Address **post-2019 sales decline**
+
+---
+
+## 📂 Project Structure
+
+```
+Zomato-Dashboard/
+│
+├── data/
+├── images/
+│   ├── dashboard1.png
+│   ├── dashboard2.png
+│   ├── dashboard3.png
+│   ├── dashboard.gif   (optional)
+│
+├── dashboard.pbix
+├── README.md
+```
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/zomato-dashboard.git
+   ```
+
+2. Open the `.pbix` file in **Power BI Desktop**
+
+3. Explore the dashboard interactively
+
+---
+
+## 🌟 Future Improvements
+
+* 🔄 Real-time data integration
+* 🌐 Web deployment
+* 🤖 Machine Learning predictions
+* 🎨 UI/UX enhancements
+
+---
+
+## 👨‍💻 Author
+
+**Tushar Vala**
+📧 [tusharvala707@gmail.com](mailto:tusharvala707@gmail.com)
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
