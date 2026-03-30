@@ -179,11 +179,13 @@ The dashboard provides **actionable insights** for business decision-making usin
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Tushar Vala**
-📧 [tusharvala707@gmail.com](mailto:tusharvala707@gmail.com)
+**Tushar Vala**  
+📊 Data Science Enthusiast  
+🐍 Python | Pandas | Machine Learning  
 
 ---
+
 
 
