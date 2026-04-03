@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="report_pages_images/dashboard.gif" width="85%">
+  <img src="report_pages_images/zomatosalesanalysis.gif" width="85%">
 </p>
 
 ## 📌 Project Overview
