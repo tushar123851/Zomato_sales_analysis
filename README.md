@@ -1,6 +1,11 @@
 # 🍽️ Zomato Data Analytics Dashboard  
 
 <p align="center">
+  <img src="report_pages_images/zomatosales.jpg" width="400">
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Project-Data%20Analytics-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge">
